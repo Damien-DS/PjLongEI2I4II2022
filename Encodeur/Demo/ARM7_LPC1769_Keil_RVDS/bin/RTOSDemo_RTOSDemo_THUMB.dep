@@ -1,0 +1,158 @@
+Dependencies for Project 'RTOSDemo', Target 'RTOSDemo_THUMB': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x624C1897)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\main.o --omf_browse .\bin\main.crf --depend .\bin\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\task.h)(0x61E7C37C)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+I (myTasks.h)(0x61E7C37C)
+F (.\myTasks.c)(0x624FCCB3)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\mytasks.o --omf_browse .\bin\mytasks.crf --depend .\bin\mytasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\task.h)(0x61E7C37C)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+I (myTasks.h)(0x61E7C37C)
+F (..\..\Source\tasks.c)(0x61E7C37B)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\tasks.o --omf_browse .\bin\tasks.crf --depend .\bin\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x602585EE)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\task.h)(0x61E7C37C)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+I (..\..\Source\include\timers.h)(0x61E7C37C)
+I (..\..\Source\include\stack_macros.h)(0x61E7C37B)
+F (..\..\Source\list.c)(0x61E7C37B)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\list.o --omf_browse .\bin\list.crf --depend .\bin\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+F (..\..\Source\queue.c)(0x61E7C37B)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\queue.o --omf_browse .\bin\queue.crf --depend .\bin\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x602585EE)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\task.h)(0x61E7C37C)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+I (..\..\Source\include\queue.h)(0x61E7C37B)
+F (..\..\Source\portable\MemMang\heap_2.c)(0x61E7C37C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\heap_2.o --omf_browse .\bin\heap_2.crf --depend .\bin\heap_2.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\task.h)(0x61E7C37C)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+F (..\..\Source\portable\RVDS\ARM_CM3\port.c)(0x61E7C37C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\port.o --omf_browse .\bin\port.crf --depend .\bin\port.d)
+I (..\..\Source\include\FreeRTOS.h)(0x61E7C37B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (.\FreeRTOSConfig.h)(0x624FCD39)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (..\..\Source\include\projdefs.h)(0x61E7C37B)
+I (..\..\Source\include\portable.h)(0x61E7C37B)
+I (..\..\Source\include\deprecated_definitions.h)(0x61E7C37B)
+I (..\..\Source\portable\RVDS\ARM_CM3\portmacro.h)(0x624FCCFF)
+I (..\..\Source\include\mpu_wrappers.h)(0x61E7C37B)
+I (..\..\Source\include\task.h)(0x61E7C37C)
+I (..\..\Source\include\list.h)(0x61E7C37B)
+F (RTE\Device\LPC1769\RTE_Device.h)(0x5D5BE3CA)()
+F (RTE\Device\LPC1769\startup_LPC17xx.s)(0x58493F92)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I ..\..\Source\portable\RVDS\ARM_CM3-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1" --pd "_RTE_ SETA 1"--list .\listing_output\startup_lpc17xx.lst --xref -o .\bin\startup_lpc17xx.o --depend .\bin\startup_lpc17xx.d)
+F (RTE\Device\LPC1769\system_LPC17xx.c)(0x5E1DC4B4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I . -I ..\..\Source\portable\RVDS\ARM_CM3 -I ..\Common\include -I ..\..\Source\include-I.\RTE\Device\LPC1769-I.\RTE\_RTOSDemo_THUMB-IC:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DKEIL_THUMB_INTERWORK-o .\bin\system_lpc17xx_1.o --omf_browse .\bin\system_lpc17xx_1.crf --depend .\bin\system_lpc17xx_1.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\dadad\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
