@@ -1,11 +1,11 @@
 
-Le fichier de lancement du projet KEIL " RTOSDemo.uvproj " est dans le répertoire TD_FREERTOS\Demo\ARM7_LPC1769_Keil_RVDS\
+Le fichier de lancement du projet KEIL " RTOSDemo.uvproj " est dans le rÃ©pertoire TD_FREERTOS\Demo\ARM7_LPC1769_Keil_RVDS\
 
-le répertoire source est conforme à l'arborescence classique de freeRTOS :
+le rÃ©pertoire source est conforme Ã  l'arborescence classique de freeRTOS :
 
 il contient les 3 fichiers C indispensables :
 list.c
 queue.c
 tasks.c
 
-classiquement en free RTOS, il y a quelques fichiers en plus timer.C et
+L'encodeur se branche sur les broches P2_10 et P2_11
